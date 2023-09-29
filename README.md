@@ -1,5 +1,8 @@
 ## 
 <a>saya belajar laravel</a>
+- MVC
+- factory datas
+- 
 
 
 
