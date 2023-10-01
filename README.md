@@ -1,8 +1,21 @@
-## 
-<a>saya belajar laravel</a>
+## <a>saya belajar laravel</a>
+
 - MVC
-- factory datas
-- 
+- factory datas/ pabrik data, membuat data random
+- eloquent reltionsife, menghubungkan atau meng intregasi beberapa tabel, many to many, many to one.
+- crud
+- route
+- link
+- memecah laman , include,yield.
+- crud resource
+- data base
+- front end
+- backend
+- terminal artisan
+
+  ## bug end error
+  <a> saat belajar programing pasti bertemu yang namanya error, dan kita berusaha memperbaikinya dengan menanyakan kepada komunitas dan internet, dan mencari sendiri dengan melihat pesan error, dan problem solving dan melihat alurnya. dengan itu kita dapat memahami suatu masalah atau error dan menambah pengetahuan kita</a>
+  <a> project ini belum selesai sepenuhnya, dan mungkin tidak akan saya selesaikan, saya akan membuat project baru.</a>
 
 
 
